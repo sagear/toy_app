@@ -86,7 +86,7 @@ ruby '2.5.3'
 
 
 gem 'rails',                         '5.2.3'
-gem 'puma',                          '3.12.1'
+gem 'puma',                          '3.12.3'
 gem 'sass-rails',                    '5.0.7'
 gem 'uglifier',                      '4.1.20'
 gem 'coffee-rails',                  '4.2.2'
